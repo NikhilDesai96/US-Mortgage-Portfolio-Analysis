@@ -109,7 +109,7 @@ US-Mortgage-Portfolio-Analysis/
 ├── US_Mortgage_Cleaned.csv
 ├── sample_orig_2024.txt
 ├── file_layout_july_2026.xlsx
-├── US mortage.pbix
+├── US_Mortgage_Dashboard.pbix
 └── README.md
 ```
 
@@ -123,7 +123,7 @@ US-Mortgage-Portfolio-Analysis/
 3. Open `US Mortgage Project.ipynb` in Jupyter Notebook **from the repository root directory**.
 4. Run the notebook cells in order. The raw text file and Excel layout file must remain in the repository root for the relative paths to work.
 5. Open `US_Mortgage_SQL_Analysis.ipynb` to review the SQLite analysis.
-6. Open `US mortage.pbix` in Power BI Desktop to explore the dashboard.
+6. Open `US_Mortgage_Dashboard.pbix` in Power BI Desktop to explore the dashboard.
 
 ## ✅ Skills Demonstrated
 
